@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3AECC98E-6E8C-4242-BACC-C4A3A068F005"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "9759100F-6A9F-4FE4-BC66-5FCBA2197AB8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "DE7DB33C-A8E0-444A-A708-39D348138EAC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA3441AE-3082-43BF-87C9-580F119CD6A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/home/controller/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA3441AE-3082-43BF-87C9-580F119CD6A3 - 381c3fe7e49535ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.CollectionViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/home/controller/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FA3441AE-3082-43BF-87C9-580F119CD6A3 - e20115cbcc0f42d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.PHAuthorizationStatus) -&gt; () in TextScan.CollectionViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/home/controller/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "FA3441AE-3082-43BF-87C9-580F119CD6A3 - 381c3fe7e49535ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.CollectionViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/home/controller/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "FA3441AE-3082-43BF-87C9-580F119CD6A3 - e20115cbcc0f42d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.PHAuthorizationStatus) -&gt; () in TextScan.CollectionViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/home/controller/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "269284D0-6CD6-445F-9438-974DE7F73C27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/home/controller/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "269284D0-6CD6-445F-9438-974DE7F73C27 - 224c42403b234a9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.CollectionViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/home/controller/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "269284D0-6CD6-445F-9438-974DE7F73C27 - 224c42403b234a9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.CollectionViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/home/controller/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "150">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A89F451-43F1-40ED-B01C-2C3CE70CAA79"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/editImg/tool/speech/LGSpeechManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "showAlert(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A89F451-43F1-40ED-B01C-2C3CE70CAA79 - cb9bfea82105057a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.LGSpeechManager.showAlert(Swift.String) -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/editImg/tool/speech/LGSpeechManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "4A89F451-43F1-40ED-B01C-2C3CE70CAA79 - cb9bfea82105057a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.LGSpeechManager.showAlert(Swift.String) -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/editImg/tool/speech/LGSpeechManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "109">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4630BB0-212A-40DA-8BC4-7FB762D78D5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "play()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B4630BB0-212A-40DA-8BC4-7FB762D78D5A - 2230317623a14ba8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.play() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "B4630BB0-212A-40DA-8BC4-7FB762D78D5A - 2230317623a14b49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.play() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "B4630BB0-212A-40DA-8BC4-7FB762D78D5A - 2230317623a14b49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.play() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "243">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BDF3877-29C8-45EB-838B-0F2E7DDC0E2F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "play()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BDF3877-29C8-45EB-838B-0F2E7DDC0E2F - 2230317623a14b0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.play() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "3BDF3877-29C8-45EB-838B-0F2E7DDC0E2F - 2230317623a14b2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.play() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "3BDF3877-29C8-45EB-838B-0F2E7DDC0E2F - 2230317623a14b2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.play() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "677">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEC5FD5B-E17A-4CBB-BE07-3A3B42C7530F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "setupRecorder()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BEC5FD5B-E17A-4CBB-BE07-3A3B42C7530F - 4203083d653c34d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.setupRecorder() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+               <Location
+                  uuid = "BEC5FD5B-E17A-4CBB-BE07-3A3B42C7530F - 4203083d653c34f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.setupRecorder() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+               <Location
+                  uuid = "BEC5FD5B-E17A-4CBB-BE07-3A3B42C7530F - 4203083d653c34f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.setupRecorder() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1137">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DBBC360-2705-48C0-A52F-634817ED24D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "onPlay()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2DBBC360-2705-48C0-A52F-634817ED24D0 - 191452f0fb5915f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.onPlay() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "2DBBC360-2705-48C0-A52F-634817ED24D0 - 191452f0fb5915d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.onPlay() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "2DBBC360-2705-48C0-A52F-634817ED24D0 - 191452f0fb5915d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.onPlay() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A14BFF06-96B8-4019-A98A-7E9C1DF886D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/framework/dao/DaoUtil/DaoUtil.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "queryData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A14BFF06-96B8-4019-A98A-7E9C1DF886D8 - d19aa3cb3b0a581a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.DaoUtil.queryData() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/framework/dao/DaoUtil/DaoUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "A14BFF06-96B8-4019-A98A-7E9C1DF886D8 - d19aa3cb3b0a58d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.DaoUtil.queryData() -&gt; ()"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/framework/dao/DaoUtil/DaoUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE827B40-C006-4D14-A116-6091ADA0339E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/framework/dao/DaoUtil/DaoUtil.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "addData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB7ABF99-3B46-41A1-84EA-036849C82BC8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB7ABF99-3B46-41A1-84EA-036849C82BC8 - 3c08e034223a2737"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.init() -&gt; TextScan.TSVoiceRecord"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "DB7ABF99-3B46-41A1-84EA-036849C82BC8 - 3c08e034223a2737"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextScan.TSVoiceRecord.init() -&gt; TextScan.TSVoiceRecord"
+                  moduleName = "TextScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/NewProject/TextScan/TextScan/app/voiceList/voiceRecord/TSVoiceRecord.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1C597E4-328E-4157-B428-5BFC7110DC6A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/voiceRecord/RecordTool.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "setupStopRecordInit()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17EF9400-E129-4011-804E-8DB859004B9D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/voiceRecord/RecordTool.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "setupStopRecordInit()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83E956FB-B8D0-4768-B85C-B923365D05B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/controller/TSVoiceListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "popVoiceAlertView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E1E6BB2-0FD8-4F82-96E4-22401FE0D4E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/controller/TSVoiceListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "239"
+            endingLineNumber = "239"
+            landmarkName = "popVoiceAlertView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFFD66B9-44FC-4C63-9D47-C4D087A754EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/voiceRecord/RecordTool.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "RecordTool"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CC500D1-D206-497E-BBA7-6C683DD544A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/voiceRecord/RecordTool.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "setupRecorder()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B6D9546-6255-44D8-B277-406631C9925C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/controller/TSVoiceListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "popVoiceAlertView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C543AD6-4AF7-42FD-A55C-B7FD19F15AEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/controller/TSVoiceListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "popVoiceAlertView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0782BBE8-B96E-4907-A36F-C880F1426877"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextScan/app/voiceList/controller/TSVoiceListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "popVoiceAlertView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

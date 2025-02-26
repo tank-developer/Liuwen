@@ -1,0 +1,66 @@
+PODS:
+  - Alamofire (5.8.1)
+  - BiometricAuthentication (3.1.3)
+  - CardIO (5.4.1)
+  - Floaty (4.2.0)
+  - IQKeyboardManagerSwift (6.5.16)
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.7.6)
+  - MMKV (1.3.1):
+    - MMKVCore (~> 1.3.1)
+  - MMKVCore (1.3.1)
+  - ReachabilitySwift (5.0.0)
+  - SPAlertController (4.0.0)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+  - SwiftyStoreKit (0.16.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - BiometricAuthentication
+  - CardIO (~> 5.4.1)
+  - Floaty (~> 4.2.0)
+  - IQKeyboardManagerSwift
+  - MBProgressHUD
+  - MJRefresh
+  - MMKV
+  - ReachabilitySwift
+  - SPAlertController
+  - SVProgressHUD
+  - SwiftyStoreKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BiometricAuthentication
+    - CardIO
+    - Floaty
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - MJRefresh
+    - MMKV
+    - MMKVCore
+    - ReachabilitySwift
+    - SPAlertController
+    - SVProgressHUD
+    - SwiftyStoreKit
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  BiometricAuthentication: b63d51be9260ba94165e032829ae78f074b129df
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  Floaty: e2bd5a0f6f7f70899e26ff2da31081c8bee8d1b0
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJRefresh: 2fe7fb43a5167ceda20bb7e63f130c04fd1814a5
+  MMKV: 5a07930c70c70b86cd87761a42c8f3836fb681d7
+  MMKVCore: e50135dbd33235b6ab390635991bab437ab873c0
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SPAlertController: b245d7a5e17d612da051f2612aca3703f21d108f
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+  SwiftyStoreKit: 6b9c08810269f030586dac1fae8e75871a82e84a
+
+PODFILE CHECKSUM: e821705903f8734154ef7009b40612146a34de63
+
+COCOAPODS: 1.15.2
